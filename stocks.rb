@@ -12,7 +12,7 @@ purchases = [   [ 'GE', 100, '10-sep-2001', 48 ],
  				[ 'EK', 300, '3-feb-1998', 55 ],
 
  		]
-
+  
 ########### REPORT 1 ###########
 
 puts "Stock Report 1 (Transaction Price):"
